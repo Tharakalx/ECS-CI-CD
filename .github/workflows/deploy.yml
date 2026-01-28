@@ -36,4 +36,4 @@ jobs:
         with:
           task-definition: ecs-task-def.json
           service: simple-ecs-service
-          cluster: simple-ecs-cluster
+          cluster: simple-ecs
